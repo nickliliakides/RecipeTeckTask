@@ -8,7 +8,7 @@ To install all its packages and libraries(node_modules folder) first, before run
 
 # Running the application
 
-After instalation have been completed you can type 'npm run all' or 'yarn run all' to run concurrently the dev server on port 3000 and and and the mock backend service(json server) on port 5000. So if you have something else running on these 2 ports in your system propably you will been asked to run it in the next available port.
+After instalation have been completed you can type 'npm run all' or 'yarn run all' to run concurrently the dev server on port 3000 and and and the mock backend service(json server) on port 5000. So please make sure you have not something else running on these 2 ports in your system .
 
 # Getting Started with Create React App
 
