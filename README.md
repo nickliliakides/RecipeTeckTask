@@ -4,7 +4,7 @@ This is a Recipe based tech-task project built with React.js and also using a mo
 
 # Installing
 
-To install all its packages and libraries first, before run it, you need to type 'npm install' or npm i' or 'yarn'(it depends on which package manager your are using) at the root direcrory of the project folder.
+To install all its packages and libraries(node_modules folder) first, before run it, you need to type 'npm install' or npm i' or 'yarn'(it depends on which package manager your are using) at the root direcrory of the project folder.
 
 # Running the application
 
