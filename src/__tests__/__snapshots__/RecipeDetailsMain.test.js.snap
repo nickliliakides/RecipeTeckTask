@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RecipeDetailsMain /> component should matches its snapshot 1`] = `
+<Fragment>
+  <RecipeDirections
+    loading={false}
+  />
+  <RecipeIngredients
+    loading={false}
+  />
+</Fragment>
+`;

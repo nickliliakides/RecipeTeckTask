@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> component should matches its snapshot 1`] = `
+<header
+  className="header"
+>
+  <img
+    alt="Logo"
+    className="header__logo"
+    src="img/recipeLogo.png"
+  />
+  <div
+    className="search"
+  >
+    <input
+      className="search__field"
+      onChange={[Function]}
+      placeholder="Search over recipes..."
+      type="text"
+    />
+    <div
+      className="search__icon__wrapper"
+    >
+      <svg
+        className="search__icon"
+      >
+        <use
+          href="img/icons.svg#icon-magnifying-glass"
+        />
+      </svg>
+    </div>
+  </div>
+</header>
+`;

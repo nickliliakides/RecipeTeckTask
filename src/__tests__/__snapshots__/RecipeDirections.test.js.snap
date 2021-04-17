@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RecipeDirections /> component should matches its snapshot 1`] = `
+<div
+  className="recipe"
+>
+  <figure
+    className="recipe__fig"
+  >
+    <img
+      alt="Tomato"
+      className="recipe__img"
+      src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8224154.jpg&q=85"
+    />
+    <h1
+      className="recipe__title"
+    >
+      <span>
+        Vegetarian Korma
+      </span>
+    </h1>
+  </figure>
+  <div
+    className="recipe__details"
+  >
+    <div
+      className="recipe__info"
+    >
+      <svg
+        className="recipe__info-icon"
+      >
+        <use
+          href="img/icons.svg#icon-stopwatch"
+        />
+      </svg>
+      <span
+        className="recipe__info-data recipe__info-data--minutes"
+      >
+        25 + 30
+      </span>
+      <span
+        className="recipe__info-text"
+      >
+         minutes (prep + cook)
+      </span>
+    </div>
+  </div>
+  <div
+    className="recipe__directions"
+  >
+    <h2
+      className="heading-2"
+    >
+      How to cook it
+    </h2>
+    <p
+      className="recipe__directions-text"
+      key="0"
+    >
+      Heat the oil in a skillet over medium heat. Stir in the onion, and cook until tender.
+    </p>
+    <p
+      className="recipe__directions-text"
+      key="1"
+    >
+      Mix in ginger and garlic, and continue cooking 1 minute.
+    </p>
+    <p
+      className="recipe__directions-text"
+      key="2"
+    >
+      Mix potatoes, carrots, jalapeno, cashews, and tomato sauce. Season with salt and curry powder. Cook and stir 10 minutes, or until potatoes are tender.
+    </p>
+    <p
+      className="recipe__directions-text"
+      key="3"
+    >
+      Stir peas, green bell pepper, red bell pepper, and cream into the skillet. Reduce heat to low, cover, and simmer 10 minutes.
+    </p>
+    <p
+      className="recipe__directions-text"
+      key="4"
+    >
+      Garnish with cilantro to serve.
+    </p>
+    <hr />
+    <p
+      className="recipe__directions-last-text"
+    >
+      This recipe was carefully designed and tested by
+      <span
+        className="recipe__by"
+      >
+         
+        Yakuta
+      </span>
+      . Please check out more recipes at their website.
+    </p>
+    <a
+      className="btn-small recipe__btn"
+      href="http://allrecipes.com/cook/116722/profile.aspx"
+      rel="noreferrer"
+      target="_blank"
+    >
+      <span>
+        Directions
+      </span>
+      <svg
+        className="search__icon"
+      >
+        <use
+          href="img/icons.svg#icon-triangle-right"
+        />
+      </svg>
+    </a>
+  </div>
+</div>
+`;

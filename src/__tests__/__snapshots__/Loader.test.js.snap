@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Loader /> component should matches its snapshot 1`] = `
+<div
+  className="loader"
+>
+  <svg>
+    <use
+      href="img/icons.svg#icon-cw"
+    />
+  </svg>
+</div>
+`;

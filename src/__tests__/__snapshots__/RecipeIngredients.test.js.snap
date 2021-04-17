@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RecipeIngredients /> component should matches its snapshot 1`] = `
+<div
+  className="shopping"
+>
+  <div
+    className="ingredients"
+  >
+    <h2
+      className="heading-2"
+    >
+      Ingredients
+    </h2>
+    <div
+      className="recipe__info"
+    >
+      <svg
+        className="recipe__info-icon"
+      >
+        <use
+          href="img/icons.svg#icon-man"
+        />
+      </svg>
+      <span
+        className="recipe__info-data recipe__info-data--people"
+      />
+      <span
+        className="recipe__info-text"
+      >
+         servings
+      </span>
+      <div
+        className="recipe__info-buttons"
+      >
+        <button
+          className="btn-tiny btn-decrease"
+          disabled={false}
+          onClick={[Function]}
+        >
+          <svg>
+            <use
+              href="img/icons.svg#icon-circle-with-minus"
+            />
+          </svg>
+        </button>
+        <button
+          className="btn-tiny btn-increase"
+          onClick={[Function]}
+        >
+          <svg>
+            <use
+              href="img/icons.svg#icon-circle-with-plus"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+    <ul
+      className="recipe__ingredient-list"
+    />
+  </div>
+  <div
+    className="categories"
+  >
+    <h2
+      className="heading-2 cat"
+    >
+      Categories
+    </h2>
+    <ul
+      className="recipe__tags__list"
+    >
+      <li
+        key="0"
+      >
+        <p>
+          main dish
+        </p>
+      </li>
+      <li
+        key="1"
+      >
+        <p>
+          vegetarian
+        </p>
+      </li>
+      <li
+        key="2"
+      >
+        <p>
+          indian
+        </p>
+      </li>
+    </ul>
+  </div>
+</div>
+`;
